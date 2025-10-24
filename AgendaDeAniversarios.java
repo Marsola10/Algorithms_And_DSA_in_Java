@@ -1,5 +1,5 @@
 import java.util.*;
-public class AgendaeAniversarios {
+public class AgendaDeAniversarios {
   public static void main(String[] args) {
       // --- Criando um HashMap ---
       // A sintaxe <String, String> significa:
