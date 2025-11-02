@@ -1,5 +1,5 @@
 import java.util.*;
-
+// Stack é uma estrutura de dados do tipo LIFO (Last In, First Out),
 public class InversorDePalavras {
   
   public static void main(String[] args) {

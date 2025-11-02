@@ -1,6 +1,6 @@
 import java.util.*;
 
-
+// Queue é uma estrutura de dados do tipo FIFO (First In, First Out),
 public class FilaDeAtendimento {
   public static void main(String[] args) {
   // --- Criando uma Queue ---
